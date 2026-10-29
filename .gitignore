@@ -1,0 +1,25 @@
+# Personal configuration and generated runtime data
+/config.json
+/runtime/
+*.log
+*.lnk
+# Build and release output
+/bin/
+/dist/
+*.pdb
+# Editor / operating system files
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
+# Local assistant/editor state and conversation exports
+AGENTS.md
+AGENTS.override.md
+.agents/
+.codex/
+.claude/
+.cursor/
+.history/
+*.jsonl
+*.bak
+*.tmp
